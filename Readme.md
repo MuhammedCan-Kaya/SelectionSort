@@ -4,7 +4,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 2. adım : [2,6,16,22,18,27] = n-1
 3. adım : [2,6,16,18,22,27] = 1
 
-Big-O gösterimi = O(n)
+Big-O gösterimi = O(n^2)
 Time Complexity = Average Case
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
